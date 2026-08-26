@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://your-deployed-backend-service-url.run.app/api' // Points to your Cloud Run backend
+  apiUrl: 'https://hospital-management-system-front-end-608537404815.asia-south1.run.app/api' // Points to your Cloud Run backend
 };
