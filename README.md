@@ -1,6 +1,7 @@
 # Hospital Management System — Frontend
 
 HTTPS url: https://hospital-management-system-front-end-608537404815.asia-south1.run.app/
+<br><br>
 HTTP url: http://34.14.221.246/
 
 This repository contains the Angular frontend for the Hospital Management System (SPMSystemFrontEnd).
