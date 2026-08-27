@@ -1,5 +1,7 @@
 # Hospital Management System — Frontend
 
+url: https://hospital-management-system-front-end-608537404815.asia-south1.run.app/
+
 This repository contains the Angular frontend for the Hospital Management System (SPMSystemFrontEnd).
 
 A responsive single-page application built with Angular for managing patients, appointments, doctors, departments, billing, and reports.
